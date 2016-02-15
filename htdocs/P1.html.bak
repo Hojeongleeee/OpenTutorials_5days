@@ -1,0 +1,11 @@
+<!-- 생활코딩 1일째 html 실습 -->
+
+
+우리는 <strong>모두 자신의 힘</strong>으로 발견한 내용을 가장 쉽게 익힌다. (<a href="https://ko.wikipedia.org/wiki/도널드_크누스" target="_blank">도널드 크누스</a>)  <!-- 태그 + 속성-->
+
+
+<!-- A태그의 속성
+	href 링크
+	target 새창여부 (blank 새창)
+	
+-->
